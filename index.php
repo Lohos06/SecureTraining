@@ -1,7 +1,7 @@
 <?php 
 
 session_start();
-require_once "createAddToken.php";
+require_once "utils/createAddToken.php";
 
 ?>
 
